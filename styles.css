@@ -75,6 +75,10 @@ body.dark-mode header {
     background-color: #1f1f1f;
 }
 
+body.dark-mode header img {
+    border: 5px solid #11044d;
+}
+
 body.dark-mode .section-box {
     background-color: #1f1f1f; 
     color: #ffffff;
